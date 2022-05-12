@@ -43,4 +43,4 @@ yarn dev
 
 ---
 
-Desenvolvedor: Alexsandro Araújo [Linkedin](hhttps://www.linkedin.com/in/alexsandro-ara%C3%BAjo-3a73961b9/?originalSubdomain=br)
+Desenvolvedor: Alexsandro Araújo [Linkedin](https://www.linkedin.com/in/alexsandro-ara%C3%BAjo-3a73961b9/?originalSubdomain=br)
